@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "Kesalahan",
+    "SOMETHING_WENT_WRONG": "Ada yang tidak beres, coba lagi nanti",
+    "SESSION_EXPIRED": "Ada yang tidak beres, harap masuk lagi"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "Masuk",
+    "patientCode": "Kode pasien",
+    "forgetCode": "Lupakan kode",
+    "createAnAccount": "Buat sebuah akun",
+    "newHere": "Baru disini ?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "Daftar"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "Surel",
+    "forgetCode": "Lupakan kode"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "Dasbor",
+    "welocme": "Selamat datang",
+    "totalTests": "Tes total",
+    "completedTests": "Tes yang sudah selesai",
+    "pendingTests": "Tes yang menunggu keputusan",
+    "selectYourLanguage": "Pilih bahasamu"
+  },
+  "TESTS_SCREEN": {
+    "tests": "Tes",
+    "totalTests": "Tes total",
+    "completedTests": "Tes yang sudah selesai",
+    "pendingTests": "Tes yang menunggu keputusan",
+    "noTestsFound": "Tidak ada tes yang ditemukan",
+    "done": "Selesai",
+    "pending": "Menunggu keputusan",
+    "viewReceipt": "Lihat Tanda Terima",
+    "viewResults": "Lihat hasil",
+    "createdAt": "Dibuat di",
+    "paid": "Dibayar",
+    "due": "Jatuh tempo",
+    "status": "Status",
+    "results": "Hasil",
+    "reports": "Laporan"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "Ranting",
+    "callNow": "Telepon sekarang",
+    "showMap": "Tunjukkan peta",
+    "phoneNumberNotAvaliable": "Nomor telepon tidak tersedia"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "Kunjungan rumah",
+    "reservationMessage": "Harap daftarkan data Anda dan staf layanan pelanggan kami akan menghubungi Anda untuk mengonfirmasi reservasi Anda",
+    "patientName": "Nama pasien",
+    "phoneNumber": "Nomor telepon",
+    "address": "Alamat",
+    "corporation": "Perusahaan",
+    "locale": "di",
+    "currentUser": "Pengguna saat ini",
+    "newUser": "Pengguna baru",
+    "male": "Pria",
+    "female": "Perempuan",
+    "uploadPrescription": "Unggah resep",
+    "dateOfBirth": "Tanggal lahir",
+    "visitDate": "Tanggal kunjungan",
+    "reserveNow": "Pesan sekarang",
+    "selectPrescriptionImage": "Pilih gambar resep",
+    "chooseFromLibraryButtonTitle": "Pilih dari perpustakaan ...",
+    "takePhotoButtonTitle": "Ambil menggunakan kamera ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "Profil",
+    "patientName": "Nama pasien",
+    "phoneNumber": "Nomor telepon",
+    "address": "Alamat",
+    "updateProfileInfo": "Perbarui info profil"
+  },
+  "GENERAL": {
+    "male": "Pria",
+    "female": "Perempuan",
+    "cancel": "Membatalkan",
+    "ok": "Baik",
+    "selecetOneLanguage": "selecet satu bahasa",
+    "no": "Tidak",
+    "found": "ditemukan",
+    "repots": "Laporan"
+  },
+  "MESSAGES": {
+    "checkMail": "Tolong, periksa surat Anda.",
+    "emailIsRequired": "Email wajib diisi.",
+    "emailIsNotValid": "Email tidak valid.",
+    "codeIsRequired": "Kode pasien diperlukan.",
+    "codeIsNotValid": "Kode pasien tidak valid.",
+    "nameIsRequired": "Nama harus diisi.",
+    "phoneIsRequired": "Ponsel diperlukan.",
+    "addressIsRequired": "Alamat diperlukan.",
+    "dobIsRequired": "Tanggal lahir wajib diisi.",
+    "visitDateIsRequired": "Tanggal kunjungan wajib diisi.",
+    "PrescriptionImageIsRequired": "Gambar Resep diperlukan.",
+    "updateProfileDataSuccessfully": "Berhasil memperbarui data profil.",
+    "homeVisitIsReservedSuccessfully": "Kunjungan rumah berhasil dipesan.",
+    "checkNetConnection": "Tolong, periksa koneksi internet Anda"
+  },
+  "TAB_LABELS": {
+    "dashboard": "Dasbor",
+    "tests": "Tes",
+    "branches": "Ranting",
+    "homeVisit": "Kunjungan rumah",
+    "profile": "Profil"
+  }
+}

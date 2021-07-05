@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "Hata",
+    "SOMETHING_WENT_WRONG": "Bir şeyler yanlış oldu. Lütfen sonra tekrar deneyiniz",
+    "SESSION_EXPIRED": "Bir şeyler ters gitti, lütfen tekrar giriş yapın"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "oturum aç",
+    "patientCode": "Hasta kodu",
+    "forgetCode": "Kodu unut",
+    "createAnAccount": "Bir hesap oluşturun",
+    "newHere": "Burada yeni ?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "Kaydol"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "E-posta",
+    "forgetCode": "Kodu unut"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "Gösterge Paneli",
+    "welocme": "Hoşgeldiniz",
+    "totalTests": "Toplam testler",
+    "completedTests": "Tamamlanan testler",
+    "pendingTests": "Bekleyen testler",
+    "selectYourLanguage": "Dilinizi seçiniz"
+  },
+  "TESTS_SCREEN": {
+    "tests": "Testler",
+    "totalTests": "Toplam testler",
+    "completedTests": "Tamamlanan testler",
+    "pendingTests": "Bekleyen testler",
+    "noTestsFound": "Test bulunamadı",
+    "done": "Bitti",
+    "pending": "Bekliyor",
+    "viewReceipt": "Makbuzu görüntüle",
+    "viewResults": "Sonuçları Görüntüle",
+    "createdAt": "Tarihinde oluşturuldu",
+    "paid": "Ücretli",
+    "due": "Vade",
+    "status": "Durum",
+    "results": "Sonuçlar",
+    "reports": "Raporlar"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "Şubeler",
+    "callNow": "Şimdi ara",
+    "showMap": "Haritayı göster",
+    "phoneNumberNotAvaliable": "Telefon numarası mevcut değil"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "Ev ziyareti",
+    "reservationMessage": "Lütfen verilerinizi kaydedin ve müşteri hizmetleri ekibimiz rezervasyonunuzu onaylamak için sizinle iletişime geçecektir",
+    "patientName": "Hasta adı",
+    "phoneNumber": "Telefon numarası",
+    "address": "Adres",
+    "corporation": "Şirket",
+    "locale": "içinde",
+    "currentUser": "Şu anki kullanıcı",
+    "newUser": "Yeni kullanıcı",
+    "male": "Erkek",
+    "female": "Kadın",
+    "uploadPrescription": "Reçeteyi yükle",
+    "dateOfBirth": "Doğum tarihi",
+    "visitDate": "Ziyaret tarihi",
+    "reserveNow": "Şimdi rezerve edin",
+    "selectPrescriptionImage": "Reçete resmini seçin",
+    "chooseFromLibraryButtonTitle": "Kütüphaneden seç...",
+    "takePhotoButtonTitle": "Kamera kullanarak çekin ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "Profil",
+    "patientName": "Hasta adı",
+    "phoneNumber": "Telefon numarası",
+    "address": "Adres",
+    "updateProfileInfo": "Profil bilgilerini güncelleyin"
+  },
+  "GENERAL": {
+    "male": "Erkek",
+    "female": "Kadın",
+    "cancel": "İptal etmek",
+    "ok": "Tamam mı",
+    "selecetOneLanguage": "bir dil seçin",
+    "no": "Hayır",
+    "found": "bulundu",
+    "repots": "Raporlar"
+  },
+  "MESSAGES": {
+    "checkMail": "Lütfen mailinizi kontrol ediniz.",
+    "emailIsRequired": "Email gereklidir.",
+    "emailIsNotValid": "E-posta geçerli değil.",
+    "codeIsRequired": "Hasta kodu gereklidir.",
+    "codeIsNotValid": "Hasta kodu geçerli değil.",
+    "nameIsRequired": "İsim gerekli.",
+    "phoneIsRequired": "Cep Telefonu gereklidir.",
+    "addressIsRequired": "Adres gerekli.",
+    "dobIsRequired": "Doğum tarihi gerekli.",
+    "visitDateIsRequired": "Ziyaret tarihi gereklidir.",
+    "PrescriptionImageIsRequired": "Reçete Resmi gereklidir.",
+    "updateProfileDataSuccessfully": "Profil verilerini başarıyla güncelleyin.",
+    "homeVisitIsReservedSuccessfully": "Ev ziyareti başarıyla rezerve edildi.",
+    "checkNetConnection": "Lütfen internet bağlantınızı kontrol edin"
+  },
+  "TAB_LABELS": {
+    "dashboard": "Gösterge Paneli",
+    "tests": "Testler",
+    "branches": "Şubeler",
+    "homeVisit": "Ev ziyareti",
+    "profile": "Profil"
+  }
+}

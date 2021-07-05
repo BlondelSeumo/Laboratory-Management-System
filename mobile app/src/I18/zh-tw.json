@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "錯誤",
+    "SOMETHING_WENT_WRONG": "發生錯誤。請稍後再試",
+    "SESSION_EXPIRED": "出問題了，請重新登錄"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "登入",
+    "patientCode": "患者代碼",
+    "forgetCode": "忘記密碼",
+    "createAnAccount": "創建一個帳戶",
+    "newHere": "新來的 ？"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "報名"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "電子郵件",
+    "forgetCode": "忘記密碼"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "儀表板",
+    "welocme": "歡迎",
+    "totalTests": "測試總數",
+    "completedTests": "完成測試",
+    "pendingTests": "待定測試",
+    "selectYourLanguage": "選擇你的語言"
+  },
+  "TESTS_SCREEN": {
+    "tests": "測驗",
+    "totalTests": "測試總數",
+    "completedTests": "完成測試",
+    "pendingTests": "待定測試",
+    "noTestsFound": "找不到測試",
+    "done": "完畢",
+    "pending": "待辦的",
+    "viewReceipt": "查看收據",
+    "viewResults": "查看結果",
+    "createdAt": "創建於",
+    "paid": "有薪酬的",
+    "due": "到期的",
+    "status": "狀態",
+    "results": "結果",
+    "reports": "報告書"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "分行",
+    "callNow": "現在打電話",
+    "showMap": "顯示地圖",
+    "phoneNumberNotAvaliable": "電話號碼不可用"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "家訪",
+    "reservationMessage": "請註冊您的數據，我們的客服人員將與您聯繫以確認您的預訂",
+    "patientName": "患者姓名",
+    "phoneNumber": "電話號碼",
+    "address": "地址",
+    "corporation": "公司",
+    "locale": "在",
+    "currentUser": "當前用戶",
+    "newUser": "新的用戶",
+    "male": "男性",
+    "female": "女性",
+    "uploadPrescription": "上傳處方",
+    "dateOfBirth": "出生日期",
+    "visitDate": "參觀日期",
+    "reserveNow": "立即預訂",
+    "selectPrescriptionImage": "選擇處方圖片",
+    "chooseFromLibraryButtonTitle": "從圖書館選擇...",
+    "takePhotoButtonTitle": "使用相機拍攝..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "輪廓",
+    "patientName": "患者姓名",
+    "phoneNumber": "電話號碼",
+    "address": "地址",
+    "updateProfileInfo": "更新資料信息"
+  },
+  "GENERAL": {
+    "male": "男性",
+    "female": "女性",
+    "cancel": "取消",
+    "ok": "好的",
+    "selecetOneLanguage": "選擇一種語言",
+    "no": "不",
+    "found": "成立",
+    "repots": "報告書"
+  },
+  "MESSAGES": {
+    "checkMail": "請檢查您的郵件。",
+    "emailIsRequired": "電子郵件為必填項。",
+    "emailIsNotValid": "電子郵件無效。",
+    "codeIsRequired": "需要患者代碼。",
+    "codeIsNotValid": "患者代碼無效。",
+    "nameIsRequired": "名稱為必填項。",
+    "phoneIsRequired": "需要手機。",
+    "addressIsRequired": "地址為必填項。",
+    "dobIsRequired": "需要出生日期。",
+    "visitDateIsRequired": "參觀日期為必填項。",
+    "PrescriptionImageIsRequired": "必須提供處方圖片。",
+    "updateProfileDataSuccessfully": "成功更新配置文件數據。",
+    "homeVisitIsReservedSuccessfully": "上門拜訪已成功預訂。",
+    "checkNetConnection": "請檢查您的互聯網連接"
+  },
+  "TAB_LABELS": {
+    "dashboard": "儀表板",
+    "tests": "測驗",
+    "branches": "分行",
+    "homeVisit": "家訪",
+    "profile": "輪廓"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "Erro",
+    "SOMETHING_WENT_WRONG": "Algo deu errado, tente novamente mais tarde",
+    "SESSION_EXPIRED": "Algo deu errado, faça login novamente"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "Entrar",
+    "patientCode": "Código do paciente",
+    "forgetCode": "Esqueça o código",
+    "createAnAccount": "Crie a sua conta aqui",
+    "newHere": "Novo aqui ?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "Inscrever-se"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "O email",
+    "forgetCode": "Esqueça o código"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "Painel",
+    "welocme": "Receber",
+    "totalTests": "Testes totais",
+    "completedTests": "Testes concluídos",
+    "pendingTests": "Testes pendentes",
+    "selectYourLanguage": "selecione sua lingua"
+  },
+  "TESTS_SCREEN": {
+    "tests": "Testes",
+    "totalTests": "Testes totais",
+    "completedTests": "Testes concluídos",
+    "pendingTests": "Testes pendentes",
+    "noTestsFound": "Nenhum teste encontrado",
+    "done": "Feito",
+    "pending": "Pendente",
+    "viewReceipt": "Veja o recibo",
+    "viewResults": "Ver resultados",
+    "createdAt": "Criado em",
+    "paid": "Pago",
+    "due": "Devido",
+    "status": "Status",
+    "results": "Resultados",
+    "reports": "Relatórios"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "Galhos",
+    "callNow": "Ligue agora",
+    "showMap": "Mostrar mapa",
+    "phoneNumberNotAvaliable": "Número de telefone não disponível"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "Visita domiciliar",
+    "reservationMessage": "Por favor, registre seus dados e nossa equipe de atendimento ao cliente entrará em contato para confirmar sua reserva",
+    "patientName": "Nome do paciente",
+    "phoneNumber": "Número de telefone",
+    "address": "Endereço",
+    "corporation": "Corporação",
+    "locale": "no",
+    "currentUser": "Usuário atual",
+    "newUser": "Novo usuário",
+    "male": "Masculino",
+    "female": "Fêmea",
+    "uploadPrescription": "Carregar receita",
+    "dateOfBirth": "Data de nascimento",
+    "visitDate": "Data da visita",
+    "reserveNow": "Reserve agora",
+    "selectPrescriptionImage": "Selecionar imagem de prescrição",
+    "chooseFromLibraryButtonTitle": "Escolha da Biblioteca...",
+    "takePhotoButtonTitle": "Tome usando a câmera ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "Perfil",
+    "patientName": "Nome do paciente",
+    "phoneNumber": "Número de telefone",
+    "address": "Endereço",
+    "updateProfileInfo": "Atualizar informações de perfil"
+  },
+  "GENERAL": {
+    "male": "Masculino",
+    "female": "Fêmea",
+    "cancel": "Cancelar",
+    "ok": "OK",
+    "selecetOneLanguage": "selecione um idioma",
+    "no": "Não",
+    "found": "encontrado",
+    "repots": "Relatórios"
+  },
+  "MESSAGES": {
+    "checkMail": "Por favor cheque seu e-mail.",
+    "emailIsRequired": "O email é obrigatório.",
+    "emailIsNotValid": "E-mail não é válido.",
+    "codeIsRequired": "O código do paciente é obrigatório.",
+    "codeIsNotValid": "O código do paciente não é válido.",
+    "nameIsRequired": "O nome é obrigatório.",
+    "phoneIsRequired": "O telefone móvel é obrigatório.",
+    "addressIsRequired": "Endereço é necessário.",
+    "dobIsRequired": "A data de nascimento é obrigatória.",
+    "visitDateIsRequired": "A data da visita é obrigatória.",
+    "PrescriptionImageIsRequired": "A imagem da prescrição é necessária.",
+    "updateProfileDataSuccessfully": "Atualizar dados de perfil com sucesso.",
+    "homeVisitIsReservedSuccessfully": "A visita ao domicílio foi reservada com sucesso.",
+    "checkNetConnection": "Por favor, verifique sua conexão à internet"
+  },
+  "TAB_LABELS": {
+    "dashboard": "Painel",
+    "tests": "Testes",
+    "branches": "Galhos",
+    "homeVisit": "Visita domiciliar",
+    "profile": "Perfil"
+  }
+}

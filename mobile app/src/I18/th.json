@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "ข้อผิดพลาด",
+    "SOMETHING_WENT_WRONG": "เกิดข้อผิดพลาดโปรดลองอีกครั้งในภายหลัง",
+    "SESSION_EXPIRED": "เกิดข้อผิดพลาดโปรดเข้าสู่ระบบอีกครั้ง"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "เข้าสู่ระบบ",
+    "patientCode": "รหัสผู้ป่วย",
+    "forgetCode": "ลืมรหัส",
+    "createAnAccount": "สร้างบัญชี",
+    "newHere": "ใหม่ที่นี่?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "ลงชื่อ"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "อีเมล์",
+    "forgetCode": "ลืมรหัส"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "แผงควบคุม",
+    "welocme": "ยินดีต้อนรับ",
+    "totalTests": "การทดสอบทั้งหมด",
+    "completedTests": "การทดสอบที่เสร็จสมบูรณ์",
+    "pendingTests": "การทดสอบที่รอดำเนินการ",
+    "selectYourLanguage": "เลือกภาษาของคุณ"
+  },
+  "TESTS_SCREEN": {
+    "tests": "การทดสอบ",
+    "totalTests": "การทดสอบทั้งหมด",
+    "completedTests": "การทดสอบที่เสร็จสมบูรณ์",
+    "pendingTests": "การทดสอบที่รอดำเนินการ",
+    "noTestsFound": "ไม่พบการทดสอบ",
+    "done": "เสร็จแล้ว",
+    "pending": "รอดำเนินการ",
+    "viewReceipt": "ดูใบเสร็จ",
+    "viewResults": "ดูผลลัพธ์",
+    "createdAt": "สร้างเมื่อ",
+    "paid": "จ่าย",
+    "due": "ครบกำหนด",
+    "status": "สถานะ",
+    "results": "ผล",
+    "reports": "รายงาน"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "สาขา",
+    "callNow": "โทรเลย",
+    "showMap": "แสดงแผนที่",
+    "phoneNumberNotAvaliable": "หมายเลขโทรศัพท์ไม่สามารถใช้ได้"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "เยี่ยมบ้าน",
+    "reservationMessage": "กรุณาลงทะเบียนข้อมูลของคุณและเจ้าหน้าที่บริการลูกค้าของเราจะติดต่อคุณเพื่อยืนยันการจองของคุณ",
+    "patientName": "ชื่อผู้ป่วย",
+    "phoneNumber": "หมายเลขโทรศัพท์",
+    "address": "ที่อยู่",
+    "corporation": "บริษัท",
+    "locale": "ใน",
+    "currentUser": "ผู้ใช้ปัจจุบัน",
+    "newUser": "ผู้ใช้ใหม่",
+    "male": "ชาย",
+    "female": "หญิง",
+    "uploadPrescription": "อัปโหลดใบสั่งยา",
+    "dateOfBirth": "วันเกิด",
+    "visitDate": "วันที่เยี่ยมชม",
+    "reserveNow": "สำรองตอนนี้",
+    "selectPrescriptionImage": "เลือกภาพใบสั่งยา",
+    "chooseFromLibraryButtonTitle": "เลือกจากห้องสมุด...",
+    "takePhotoButtonTitle": "ถ่ายโดยใช้กล้อง ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "ข้อมูลส่วนตัว",
+    "patientName": "ชื่อผู้ป่วย",
+    "phoneNumber": "หมายเลขโทรศัพท์",
+    "address": "ที่อยู่",
+    "updateProfileInfo": "อัปเดตข้อมูลโปรไฟล์"
+  },
+  "GENERAL": {
+    "male": "ชาย",
+    "female": "หญิง",
+    "cancel": "ยกเลิก",
+    "ok": "ตกลง",
+    "selecetOneLanguage": "เลือกหนึ่งภาษา",
+    "no": "ไม่",
+    "found": "พบ",
+    "repots": "รายงาน"
+  },
+  "MESSAGES": {
+    "checkMail": "กรุณาตรวจสอบอีเมลของคุณ",
+    "emailIsRequired": "ต้องระบุอีเมล",
+    "emailIsNotValid": "อีเมลไม่ถูกต้อง",
+    "codeIsRequired": "ต้องระบุรหัสผู้ป่วย",
+    "codeIsNotValid": "รหัสผู้ป่วยไม่ถูกต้อง",
+    "nameIsRequired": "ต้องระบุชื่อ",
+    "phoneIsRequired": "จำเป็นต้องใช้โทรศัพท์มือถือ",
+    "addressIsRequired": "ต้องระบุที่อยู่",
+    "dobIsRequired": "ต้องระบุวันเดือนปีเกิด",
+    "visitDateIsRequired": "ต้องระบุวันที่เข้าชม",
+    "PrescriptionImageIsRequired": "ต้องระบุรูปภาพตามใบสั่งแพทย์",
+    "updateProfileDataSuccessfully": "อัปเดตข้อมูลโปรไฟล์เรียบร้อยแล้ว",
+    "homeVisitIsReservedSuccessfully": "จองการเยี่ยมบ้านเรียบร้อยแล้ว",
+    "checkNetConnection": "โปรดตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ"
+  },
+  "TAB_LABELS": {
+    "dashboard": "แผงควบคุม",
+    "tests": "การทดสอบ",
+    "branches": "สาขา",
+    "homeVisit": "เยี่ยมบ้าน",
+    "profile": "ข้อมูลส่วนตัว"
+  }
+}

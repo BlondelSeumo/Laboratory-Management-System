@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "خطا",
+    "SOMETHING_WENT_WRONG": "مشکلی رخ داده است. لطفا بعدا دوباره امتحان کنید",
+    "SESSION_EXPIRED": "مشکلی پیش آمد ، لطفاً دوباره وارد شوید"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "ورود",
+    "patientCode": "کد بیمار",
+    "forgetCode": "کد را فراموش کنید",
+    "createAnAccount": "ایجاد یک حساب کاربری",
+    "newHere": "تازه وارد به اینجا ؟"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "ثبت نام"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "پست الکترونیک",
+    "forgetCode": "کد را فراموش کنید"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "داشبورد",
+    "welocme": "خوش آمدی",
+    "totalTests": "کل تست ها",
+    "completedTests": "آزمایشات کامل شده",
+    "pendingTests": "آزمونهای در انتظار",
+    "selectYourLanguage": "زبان خود را انتخاب کنید"
+  },
+  "TESTS_SCREEN": {
+    "tests": "تست ها",
+    "totalTests": "کل تست ها",
+    "completedTests": "آزمایشات کامل شده",
+    "pendingTests": "آزمونهای در انتظار",
+    "noTestsFound": "هیچ آزمایشی یافت نشد",
+    "done": "انجام شده",
+    "pending": "در انتظار",
+    "viewReceipt": "مشاهده رسید",
+    "viewResults": "مشاهده نتایج",
+    "createdAt": "ایجاد شده در",
+    "paid": "پرداخت شده",
+    "due": "ناشی از",
+    "status": "وضعیت",
+    "results": "نتایج",
+    "reports": "گزارش ها"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "شاخه ها",
+    "callNow": "الان تماس بگیر",
+    "showMap": "نمایش نقشه",
+    "phoneNumberNotAvaliable": "شماره تلفن موجود نیست"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "بازدید از خانه",
+    "reservationMessage": "لطفا اطلاعات خود را ثبت کنید و کارکنان خدمات مشتری ما برای تأیید رزرو با شما تماس می گیرند",
+    "patientName": "نام بیمار",
+    "phoneNumber": "شماره تلفن",
+    "address": "نشانی",
+    "corporation": "شرکت",
+    "locale": "که در",
+    "currentUser": "کاربر فعلی",
+    "newUser": "کاربر جدید",
+    "male": "نر",
+    "female": "زن",
+    "uploadPrescription": "نسخه را بارگذاری کنید",
+    "dateOfBirth": "تاریخ تولد",
+    "visitDate": "تاریخ بازدید",
+    "reserveNow": "هم اکنون رزرو کنید",
+    "selectPrescriptionImage": "تصویر نسخه دار را انتخاب کنید",
+    "chooseFromLibraryButtonTitle": "از کتابخانه انتخاب کن...",
+    "takePhotoButtonTitle": "استفاده از دوربین ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "مشخصات",
+    "patientName": "نام بیمار",
+    "phoneNumber": "شماره تلفن",
+    "address": "نشانی",
+    "updateProfileInfo": "اطلاعات نمایه را به روز کنید"
+  },
+  "GENERAL": {
+    "male": "نر",
+    "female": "زن",
+    "cancel": "لغو",
+    "ok": "خوب",
+    "selecetOneLanguage": "انتخاب یک زبان",
+    "no": "نه",
+    "found": "پیدا شد",
+    "repots": "گزارش ها"
+  },
+  "MESSAGES": {
+    "checkMail": "لطفا ایمیلتان را چک کنید.",
+    "emailIsRequired": "ایمیل لازم است",
+    "emailIsNotValid": "ایمیل معتبر نیست",
+    "codeIsRequired": "کد بیمار لازم است.",
+    "codeIsNotValid": "کد بیمار معتبر نیست.",
+    "nameIsRequired": "نام لازم است",
+    "phoneIsRequired": "تلفن همراه مورد نیاز است.",
+    "addressIsRequired": "آدرس لازم است",
+    "dobIsRequired": "تاریخ تولد الزامی است.",
+    "visitDateIsRequired": "تاریخ بازدید لازم است",
+    "PrescriptionImageIsRequired": "تصویر نسخه ضروری است.",
+    "updateProfileDataSuccessfully": "داده های نمایه را با موفقیت به روز کنید.",
+    "homeVisitIsReservedSuccessfully": "بازدید از خانه با موفقیت رزرو شده است.",
+    "checkNetConnection": "لطفاً اتصال اینترنت خود را بررسی کنید"
+  },
+  "TAB_LABELS": {
+    "dashboard": "داشبورد",
+    "tests": "تست ها",
+    "branches": "شاخه ها",
+    "homeVisit": "بازدید از خانه",
+    "profile": "مشخصات"
+  }
+}

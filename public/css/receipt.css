@@ -1,0 +1,188 @@
+table td {
+    padding: 5px !important;
+}
+
+@media print {
+
+    .title {
+        font-family: cursive !important;
+    }
+
+    .page-header {
+        margin-bottom: 30px;
+        width: 100%;
+        padding: 50px;
+    }
+
+    .patient_info {
+        border: 1px solid black;
+    }
+
+    .page-header td {
+        padding: 5px;
+        padding-left: 15px !important;
+    }
+
+    .analysis-title {
+        display: block !important;
+        text-transform: uppercase;
+        background-color: #E0E0E0 !important;
+    }
+
+    table {
+        page-break-inside: avoid;
+    }
+
+    .page-header {
+        display: table-header-group;
+    }
+
+    .page-footer {
+        display: table-footer-group;
+    }
+
+    .print_title {
+        white-space: nowrap !important;
+    }
+
+}
+
+.ui-sortable-handle {
+    cursor: all-scroll;
+}
+
+
+.print_title {
+    text-align: left;
+    width: 10px;
+    white-space: nowrap !important;
+}
+
+.title {
+    background-color: #F0F0F0 !important;
+}
+
+.printable {
+    display: none;
+}
+
+.lab_name {
+    font-size: 30px !important;
+    font-family: cursive;
+}
+
+.signature {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.printable_cultures {
+    display: none;
+}
+
+.dropdown-menu {
+    width: 100%;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+.float-right {
+    float: right;
+}
+
+.card-title {
+    text-transform: capitalize;
+}
+
+.transparent {
+    border: 2px solid transparent;
+}
+
+.analysis_title_row {
+    background-color: #E0E0E0 !important;
+    border: 2px solid black !important
+}
+
+.analysis_title {
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.analysis_head {
+    border-bottom: 2px solid black;
+}
+
+.culture-details {
+    page-break-after: always !important;
+}
+
+.no-left-border {
+    /* border-left: 2px solid transparent !important; */
+}
+
+.no-right-border {
+    border-right: 5px solid transparent !important
+}
+
+.sensitivity_tr {
+    border: 2px solid black;
+}
+
+body {
+    -webkit-print-color-adjust: exact !important;
+}
+
+.table {
+    font-family: sans-serif !important;
+}
+
+.invoice{
+    padding-top: 20px!important;
+}
+
+.invoice table th,td{
+    text-align: left;
+    padding: 7px!important;
+}
+
+.invoice table{
+    border-collapse: collapse;
+}
+
+.receipt_title .total{
+    background-color: #EEE;
+}
+
+.border-top{
+    border-top: 2px solid #dee2e6;
+}
+
+.receipt_title td{
+    border: 1px solid transparent!important;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+.table-bordered,
+.table-bordered td {
+    border: 1px solid #dee2e6;
+}
+
+.table-bordered thead th,
+.table-bordered thead td {
+    border-bottom-width: 2px;
+}  
+
+.invoice thead{
+    background-color: #0547ff!important;
+    color: #EEE;
+}
+
+.invoice thead th{
+    border:1px solid white;
+}
+

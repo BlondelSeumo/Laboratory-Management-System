@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "错误",
+    "SOMETHING_WENT_WRONG": "发生错误。请稍后再试",
+    "SESSION_EXPIRED": "出问题了，请重新登录"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "登入",
+    "patientCode": "患者代码",
+    "forgetCode": "忘记密码",
+    "createAnAccount": "创建一个帐户",
+    "newHere": "新来的 ？"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "报名"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "电子邮件",
+    "forgetCode": "忘记密码"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "仪表板",
+    "welocme": "欢迎",
+    "totalTests": "测试总数",
+    "completedTests": "完成测试",
+    "pendingTests": "待定测试",
+    "selectYourLanguage": "选择你的语言"
+  },
+  "TESTS_SCREEN": {
+    "tests": "测验",
+    "totalTests": "测试总数",
+    "completedTests": "完成测试",
+    "pendingTests": "待定测试",
+    "noTestsFound": "找不到测试",
+    "done": "完毕",
+    "pending": "待办的",
+    "viewReceipt": "查看收据",
+    "viewResults": "查看结果",
+    "createdAt": "创建于",
+    "paid": "有薪酬的",
+    "due": "到期的",
+    "status": "状态",
+    "results": "结果",
+    "reports": "报告书"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "分行",
+    "callNow": "现在打电话",
+    "showMap": "显示地图",
+    "phoneNumberNotAvaliable": "电话号码不可用"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "家访",
+    "reservationMessage": "请注册您的数据，我们的客服人员将与您联系以确认您的预订",
+    "patientName": "患者姓名",
+    "phoneNumber": "电话号码",
+    "address": "地址",
+    "corporation": "公司",
+    "locale": "在",
+    "currentUser": "当前用户",
+    "newUser": "新的用户",
+    "male": "男性",
+    "female": "女性",
+    "uploadPrescription": "上传处方",
+    "dateOfBirth": "出生日期",
+    "visitDate": "参观日期",
+    "reserveNow": "立即预订",
+    "selectPrescriptionImage": "选择处方图片",
+    "chooseFromLibraryButtonTitle": "从图书馆选择...",
+    "takePhotoButtonTitle": "使用相机拍摄..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "轮廓",
+    "patientName": "患者姓名",
+    "phoneNumber": "电话号码",
+    "address": "地址",
+    "updateProfileInfo": "更新资料信息"
+  },
+  "GENERAL": {
+    "male": "男性",
+    "female": "女性",
+    "cancel": "取消",
+    "ok": "好的",
+    "selecetOneLanguage": "选择一种语言",
+    "no": "不",
+    "found": "成立",
+    "repots": "报告书"
+  },
+  "MESSAGES": {
+    "checkMail": "请检查您的邮件。",
+    "emailIsRequired": "电子邮件为必填项。",
+    "emailIsNotValid": "电子邮件无效。",
+    "codeIsRequired": "需要患者代码。",
+    "codeIsNotValid": "患者代码无效。",
+    "nameIsRequired": "名称为必填项。",
+    "phoneIsRequired": "需要手机。",
+    "addressIsRequired": "地址为必填项。",
+    "dobIsRequired": "需要出生日期。",
+    "visitDateIsRequired": "参观日期为必填项。",
+    "PrescriptionImageIsRequired": "必须提供处方图片。",
+    "updateProfileDataSuccessfully": "成功更新配置文件数据。",
+    "homeVisitIsReservedSuccessfully": "上门拜访已成功预订。",
+    "checkNetConnection": "请检查您的互联网连接"
+  },
+  "TAB_LABELS": {
+    "dashboard": "仪表板",
+    "tests": "测验",
+    "branches": "分行",
+    "homeVisit": "家访",
+    "profile": "轮廓"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "Errors": {
+    "Error": "خطأ",
+    "SOMETHING_WENT_WRONG": "هناك شئ خاطئ، يرجى المحاولة فى وقت لاحق",
+    "SESSION_EXPIRED": "حدث خطأ ما ، يرجى تسجيل الدخول مرة أخرى"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "تسجيل الدخول",
+    "patientCode": "كود المريض",
+    "forgetCode": "نسيت الرمز",
+    "createAnAccount": "انشئ حساب",
+    "newHere": "جديد هنا ؟"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "تسجيل"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "البريد الالكتروني",
+    "forgetCode": "نسيت الرمز"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "لوحة القيادة",
+    "welocme": "أهلا بك",
+    "totalTests": "مجموع التحاليل",
+    "completedTests": "التحاليل المكتملة",
+    "pendingTests": "التحاليل المعلقة",
+    "selectYourLanguage": "اختر لغتك"
+  },
+  "TESTS_SCREEN": {
+    "tests": "التحاليل",
+    "totalTests": "مجموع التحاليل",
+    "completedTests": "التحاليل المكتملة",
+    "pendingTests": "التحاليل المعلقة",
+    "noTestsFound": "لم يتم العثور على اختبارات",
+    "done": "منتهي",
+    "pending": "قيد الانتظار",
+    "viewReceipt": "عرض الفاتورة",
+    "viewResults": "عرض النتائج",
+    "createdAt": "أنشئت في",
+    "paid": "المدفوع",
+    "due": "المتبقي",
+    "status": "حالة",
+    "results": "النتائج",
+    "reports": "التقارير"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "الفروع",
+    "callNow": "اتصل الان",
+    "showMap": "عرض الخريطة",
+    "phoneNumberNotAvaliable": "رقم الهاتف غير متوفر"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "الزيارة منزلية",
+    "reservationMessage": "يرجى تسجيل بياناتك وسيتصل بك موظفو خدمة العملاء لدينا لتأكيد حجزك",
+    "patientName": "اسم المريض",
+    "phoneNumber": "رقم التليفون",
+    "address": "العنوان",
+    "corporation": "محل العمل",
+    "currentUser": "المستخدم الحالي",
+    "newUser": "مستخدم جديد",
+    "male": "ذكر",
+    "female": "أنثى",
+    "uploadPrescription": "تحميل الوصفة الطبية",
+    "dateOfBirth": "تاريخ الميلاد",
+    "visitDate": "تاريخ الزيارة",
+    "reserveNow": "احجز الان",
+    "selectPrescriptionImage": "حدد صورة الوصفة الطبية",
+    "chooseFromLibraryButtonTitle": "من الاستديو ...",
+    "takePhotoButtonTitle": "بواسطة الكاميرا..."
+  },
+  "PROFILE_SCREEN": {
+    "profile":  "الحساب الشخصي",
+    "patientName": "اسم المريض",
+    "phoneNumber": "رقم التليفون",
+    "address": "العنوان",
+    "updateProfileInfo": "تحديث معلومات الحساب الشخصي"
+  },
+  "GENERAL": {
+    "male": "ذكر",
+    "female": "أنثى",
+    "cancel": "إلغاء",
+    "ok": "موافق",
+    "selecetOneLanguage": "اختر لغة واحدة",
+    "no": "لا",
+    "found": "يوجد",
+    "repots": "التقارير"
+  },
+  "MESSAGES": {
+    "checkMail": "رجاء تفحص بريدك الإلكتروني",
+    "emailIsRequired": "البريد الالكتروني مطلوب",
+    "emailIsNotValid": "البريد الإلكتروني غير صالح",
+    "codeIsRequired": "كود المريض مطلوب",
+    "codeIsNotValid": "رمز المريض غير صالح",
+    "nameIsRequired": "الاسم مطلوب",
+    "phoneIsRequired": "الهاتف المحمول مطلوب",
+    "addressIsRequired": "العنوان مطلوب",
+    "dobIsRequired": "تاريخ الميلاد مطلوب",
+    "visitDateIsRequired": "تاريخ الزيارة مطلوب",
+    "PrescriptionImageIsRequired": "مطلوب صورة الوصفة الطبية",
+    "updateProfileDataSuccessfully": "تحديث بيانات الحساب الشخصي بنجاح",
+    "homeVisitIsReservedSuccessfully": "تم حجز الزيارة المنزلية بنجاح",
+    "checkNetConnection": "الرجاء التحقق من اتصال الانترنت الخاص بك",
+    "createNewAccountSuccessfully" :"تم انشاء الحساب بنجاح"
+
+  },
+  "TAB_LABELS": {
+    "dashboard": "لوحة القيادة",
+    "tests": "التحاليل",
+    "branches": "الفروع",
+    "homeVisit": "الزيارة منزلية",
+    "profile": "الحساب"
+  }
+}

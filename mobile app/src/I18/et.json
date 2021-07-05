@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "Viga",
+    "SOMETHING_WENT_WRONG": "Midagi läks valesti, proovige hiljem uuesti",
+    "SESSION_EXPIRED": "Midagi läks valesti, palun logige uuesti sisse"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "Logi sisse",
+    "patientCode": "Patsiendi kood",
+    "forgetCode": "Unusta kood",
+    "createAnAccount": "Kontot looma",
+    "newHere": "Uus siin ?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "Registreeri"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "E-post",
+    "forgetCode": "Unusta kood"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "Armatuurlaud",
+    "welocme": "Tere tulemast",
+    "totalTests": "Testid kokku",
+    "completedTests": "Täidetud testid",
+    "pendingTests": "Ootel testid",
+    "selectYourLanguage": "Valige oma keel"
+  },
+  "TESTS_SCREEN": {
+    "tests": "Testid",
+    "totalTests": "Testid kokku",
+    "completedTests": "Täidetud testid",
+    "pendingTests": "Ootel testid",
+    "noTestsFound": "Teste ei leitud",
+    "done": "Valmis",
+    "pending": "Ootel",
+    "viewReceipt": "Kuva kviitung",
+    "viewResults": "Kuva tulemused",
+    "createdAt": "Loodud aadressil",
+    "paid": "Tasuline",
+    "due": "Tähtaeg",
+    "status": "Staatus",
+    "results": "Tulemused",
+    "reports": "Aruanded"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "Filiaalid",
+    "callNow": "Helistage kohe",
+    "showMap": "Kuva kaart",
+    "phoneNumberNotAvaliable": "Telefoninumber pole saadaval"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "Koduvisiit",
+    "reservationMessage": "Palun registreerige oma andmed ja meie klienditeenindajad võtavad teiega broneeringu kinnitamiseks ühendust",
+    "patientName": "Patsiendi nimi",
+    "phoneNumber": "Telefoninumber",
+    "address": "Aadress",
+    "corporation": "Korporatsioon",
+    "locale": "aastal",
+    "currentUser": "Praegune kasutaja",
+    "newUser": "Uus kasutaja",
+    "male": "Mees",
+    "female": "Naine",
+    "uploadPrescription": "Laadige retsept üles",
+    "dateOfBirth": "Sünnikuupäev",
+    "visitDate": "Külastuse kuupäev",
+    "reserveNow": "Broneeri kohe",
+    "selectPrescriptionImage": "Valige retseptipilt",
+    "chooseFromLibraryButtonTitle": "Valige raamatukogu hulgast ...",
+    "takePhotoButtonTitle": "Kasutage kaamerat ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "Profiil",
+    "patientName": "Patsiendi nimi",
+    "phoneNumber": "Telefoninumber",
+    "address": "Aadress",
+    "updateProfileInfo": "Profiili teabe värskendamine"
+  },
+  "GENERAL": {
+    "male": "Mees",
+    "female": "Naine",
+    "cancel": "Tühista",
+    "ok": "Okei",
+    "selecetOneLanguage": "valige üks keel",
+    "no": "Ei",
+    "found": "leitud",
+    "repots": "Aruanded"
+  },
+  "MESSAGES": {
+    "checkMail": "Palun kontrollige oma posti.",
+    "emailIsRequired": "E-post on kohustuslik.",
+    "emailIsNotValid": "E-posti aadress ei sobi.",
+    "codeIsRequired": "Vaja on patsiendi koodi.",
+    "codeIsNotValid": "Patsiendi kood ei kehti.",
+    "nameIsRequired": "Nimi on kohustuslik.",
+    "phoneIsRequired": "Vaja on mobiiltelefoni.",
+    "addressIsRequired": "Aadress on kohustuslik.",
+    "dobIsRequired": "Sünniaeg on kohustuslik.",
+    "visitDateIsRequired": "Külastuse kuupäev on kohustuslik.",
+    "PrescriptionImageIsRequired": "Retseptipilt on vajalik.",
+    "updateProfileDataSuccessfully": "Profiiliandmete värskendamine õnnestus.",
+    "homeVisitIsReservedSuccessfully": "Koduvisiit on edukalt broneeritud.",
+    "checkNetConnection": "Palun kontrollige oma Interneti-ühendust"
+  },
+  "TAB_LABELS": {
+    "dashboard": "Armatuurlaud",
+    "tests": "Testid",
+    "branches": "Filiaalid",
+    "homeVisit": "Koduvisiit",
+    "profile": "Profiil"
+  }
+}

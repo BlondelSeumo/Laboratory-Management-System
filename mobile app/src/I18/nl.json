@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "Fout",
+    "SOMETHING_WENT_WRONG": "Er is iets misgegaan, probeer het later opnieuw",
+    "SESSION_EXPIRED": "Er is iets misgegaan, log opnieuw in"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "Inloggen",
+    "patientCode": "Patiëntcode",
+    "forgetCode": "Code vergeten",
+    "createAnAccount": "Account aanmaken",
+    "newHere": "Nieuw hier ?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "Aanmelden"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "E-mail",
+    "forgetCode": "Code vergeten"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "Dashboard",
+    "welocme": "Welkom",
+    "totalTests": "Totaal aantal tests",
+    "completedTests": "Afgeronde tests",
+    "pendingTests": "In afwachting van tests",
+    "selectYourLanguage": "Selecteer je taal"
+  },
+  "TESTS_SCREEN": {
+    "tests": "Tests",
+    "totalTests": "Totaal aantal tests",
+    "completedTests": "Afgeronde tests",
+    "pendingTests": "In afwachting van tests",
+    "noTestsFound": "Geen tests gevonden",
+    "done": "Gedaan",
+    "pending": "In afwachting",
+    "viewReceipt": "Bekijk bon",
+    "viewResults": "Bekijk resultaten",
+    "createdAt": "Gemaakt bij",
+    "paid": "Betaald",
+    "due": "Ten gevolge",
+    "status": "Toestand",
+    "results": "Resultaten",
+    "reports": "Rapporten"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "Takken",
+    "callNow": "Bel nu",
+    "showMap": "Kaart weergeven",
+    "phoneNumberNotAvaliable": "Telefoonnummer is niet beschikbaar"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "Thuisbezoek",
+    "reservationMessage": "Registreer uw gegevens en onze klantenservice zal contact met u opnemen om uw reservering te bevestigen",
+    "patientName": "Patient naam",
+    "phoneNumber": "Telefoonnummer",
+    "address": "Adres",
+    "corporation": "Corporation",
+    "locale": "in",
+    "currentUser": "Huidige gebruiker",
+    "newUser": "Nieuwe gebruiker",
+    "male": "Mannetje",
+    "female": "Vrouw",
+    "uploadPrescription": "Upload het recept",
+    "dateOfBirth": "Geboortedatum",
+    "visitDate": "Bezoek datum",
+    "reserveNow": "Reserveer nu",
+    "selectPrescriptionImage": "Selecteer een receptafbeelding",
+    "chooseFromLibraryButtonTitle": "Kies uit bibliotheek ...",
+    "takePhotoButtonTitle": "Gebruik de camera ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "Profiel",
+    "patientName": "Patient naam",
+    "phoneNumber": "Telefoonnummer",
+    "address": "Adres",
+    "updateProfileInfo": "Update profielinformatie"
+  },
+  "GENERAL": {
+    "male": "Mannetje",
+    "female": "Vrouw",
+    "cancel": "annuleren",
+    "ok": "OK",
+    "selecetOneLanguage": "selecteer een taal",
+    "no": "Nee",
+    "found": "gevonden",
+    "repots": "Rapporten"
+  },
+  "MESSAGES": {
+    "checkMail": "Controleer alstublieft uw mail.",
+    "emailIsRequired": "Email is verplicht.",
+    "emailIsNotValid": "E-mail is niet geldig.",
+    "codeIsRequired": "Patiëntcode is vereist.",
+    "codeIsNotValid": "Patiëntcode is niet geldig.",
+    "nameIsRequired": "Naam is vereist.",
+    "phoneIsRequired": "Mobiele telefoon is vereist.",
+    "addressIsRequired": "Adres is nodig.",
+    "dobIsRequired": "Geboortedatum is verplicht.",
+    "visitDateIsRequired": "Bezoekdatum is vereist.",
+    "PrescriptionImageIsRequired": "Voorschriftafbeelding is vereist.",
+    "updateProfileDataSuccessfully": "Update profielgegevens succesvol.",
+    "homeVisitIsReservedSuccessfully": "Huisbezoek is succesvol gereserveerd.",
+    "checkNetConnection": "Controleer uw internetverbinding"
+  },
+  "TAB_LABELS": {
+    "dashboard": "Dashboard",
+    "tests": "Tests",
+    "branches": "Takken",
+    "homeVisit": "Thuisbezoek",
+    "profile": "Profiel"
+  }
+}

@@ -1,0 +1,1 @@
+{{$activity->created_at->diffforhumans()}}

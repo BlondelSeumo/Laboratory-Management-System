@@ -1,0 +1,110 @@
+{
+  "Errors": {
+    "Error": "Error",
+    "SOMETHING_WENT_WRONG": "Something went wrong, please try again later",
+    "SESSION_EXPIRED": "Something went wrong, please login again"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "Sign in",
+    "patientCode": "Patient code",
+    "forgetCode": "Forget code",
+    "createAnAccount": "Create an account ",
+    "newHere": "New here ?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "Sign Up"
+  },
+  "FORGETCODE_SCREEN": {"email": "E-mail", "forgetCode": "Forget code"},
+  "DASHBOARD_SCREEN": {
+    "dashboard":"Dashboard",
+    "welocme": "Welcome",
+    "totalTests": "Total tests",
+    "completedTests": "Completed tests",
+    "pendingTests": "Pending tests",
+    "selectYourLanguage":"Select your language"
+  },
+  "TESTS_SCREEN": {
+    "tests":"Tests",
+    "totalTests": "Total tests",
+    "completedTests": "Completed tests",
+    "pendingTests": "Pending tests",
+    "noTestsFound": "No tests found ",
+    "done": "Done",
+    "pending": "Pending",
+    "viewReceipt": "View Receipt",
+    "viewResults": "View Results",
+    "createdAt": "Created at ",
+    "paid": "Paid",
+    "due": "Due",
+    "status": "Status",
+    "results": "Results",
+    "reports": "Reports"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "Branches",
+    "callNow": "Call now",
+    "showMap": "Show map",
+    "phoneNumberNotAvaliable": "Phone number is not available"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "Home visit",
+    "reservationMessage": "Please register your data  and our customer service staff will contact  you to confirm your reservation",
+    "patientName": "Patient name",
+    "phoneNumber": "Phone number",
+    "address": "Address",
+    "corporation": "Corporation",
+    "locale": "en",
+    "currentUser": "Current user",
+    "newUser": "New user",
+    "male": "Male",
+    "female": "Female",
+    "uploadPrescription": "Upload prescription",
+    "dateOfBirth": "Date of birth",
+    "visitDate": "Visit date",
+    "reserveNow": "Reserve now",
+    "selectPrescriptionImage":"Select prescription image",
+    "chooseFromLibraryButtonTitle":"Choose from library...",
+    "takePhotoButtonTitle" :"Take using camera..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "Profile",
+    "patientName": "Patient name",
+    "phoneNumber": "Phone number",
+    "address": "Address",
+    "updateProfileInfo": "Update profile info"
+  },
+  "GENERAL": {
+    "male": "Male",
+    "female": "Female",
+    "cancel": "Cancel",
+    "ok": "Ok",
+    "selecetOneLanguage":"selecet one language",
+    "no":"No",
+    "found":"found",
+    "repots":"Reports"
+  },
+  "MESSAGES": {
+    "checkMail": "Please, check your mail.",
+    "emailIsRequired" : "Email is required.",
+    "emailIsNotValid" :"Email is not valid.",
+    "codeIsRequired" : "Patient code is required.",
+    "codeIsNotValid" :"Patient code is not valid.",
+    "nameIsRequired": "Name is required.",
+    "phoneIsRequired" :"Mobile Phone is required.",
+    "addressIsRequired":"Address is required.",
+    "dobIsRequired" :"Date of birth is required.",
+    "visitDateIsRequired":"Visit date is required.",
+    "PrescriptionImageIsRequired":"Prescription Image is required.",
+    "updateProfileDataSuccessfully":"Update profile data successfully.",
+    "homeVisitIsReservedSuccessfully":"Home visit is reserved successfully.",
+    "checkNetConnection": "Please, check your internet connection",
+    "createNewAccountSuccessfully" :"Account is created Successfully"
+  },
+  "TAB_LABELS": {
+    "dashboard": "Dashboard",
+    "tests": "Tests",
+    "branches": "Branches",
+    "homeVisit": "Home Visit",
+    "profile": "Profile"
+  }
+}

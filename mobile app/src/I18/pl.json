@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "Błąd",
+    "SOMETHING_WENT_WRONG": "Coś poszło nie tak. Proszę spróbować później",
+    "SESSION_EXPIRED": "Coś poszło nie tak, zaloguj się ponownie"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "Zaloguj się",
+    "patientCode": "Kod pacjenta",
+    "forgetCode": "Zapomnij kod",
+    "createAnAccount": "Utwórz konto",
+    "newHere": "Nowy tutaj ?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "Zapisz się"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "E-mail",
+    "forgetCode": "Zapomnij kod"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "Deska rozdzielcza",
+    "welocme": "Witamy",
+    "totalTests": "Testy ogółem",
+    "completedTests": "Ukończone testy",
+    "pendingTests": "Oczekujące testy",
+    "selectYourLanguage": "Wybierz swój język"
+  },
+  "TESTS_SCREEN": {
+    "tests": "Testy",
+    "totalTests": "Testy ogółem",
+    "completedTests": "Ukończone testy",
+    "pendingTests": "Oczekujące testy",
+    "noTestsFound": "Nie znaleziono testów",
+    "done": "Gotowy",
+    "pending": "W oczekiwaniu",
+    "viewReceipt": "Wyświetl rachunek",
+    "viewResults": "Pokaż wyniki",
+    "createdAt": "Utworzono w",
+    "paid": "Płatny",
+    "due": "Z powodu",
+    "status": "Status",
+    "results": "Wyniki",
+    "reports": "Raporty"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "Gałęzie",
+    "callNow": "Zadzwoń teraz",
+    "showMap": "Pokaż mapę",
+    "phoneNumberNotAvaliable": "Numer telefonu jest niedostępny"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "Wizyta domowa",
+    "reservationMessage": "Zarejestruj swoje dane, a nasz personel obsługi klienta skontaktuje się z Tobą w celu potwierdzenia rezerwacji",
+    "patientName": "Imię pacjenta",
+    "phoneNumber": "Numer telefonu",
+    "address": "Adres",
+    "corporation": "Korporacja",
+    "locale": "w",
+    "currentUser": "Aktualny użytkownik",
+    "newUser": "Nowy użytkownik",
+    "male": "Męski",
+    "female": "Płeć żeńska",
+    "uploadPrescription": "Prześlij receptę",
+    "dateOfBirth": "Data urodzenia",
+    "visitDate": "Data wizyty",
+    "reserveNow": "Zarezerwuj teraz",
+    "selectPrescriptionImage": "Wybierz obraz recepty",
+    "chooseFromLibraryButtonTitle": "Wybierz z biblioteki...",
+    "takePhotoButtonTitle": "Zrób aparatem ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "Profil",
+    "patientName": "Imię pacjenta",
+    "phoneNumber": "Numer telefonu",
+    "address": "Adres",
+    "updateProfileInfo": "Zaktualizuj informacje o profilu"
+  },
+  "GENERAL": {
+    "male": "Męski",
+    "female": "Płeć żeńska",
+    "cancel": "Anuluj",
+    "ok": "Ok",
+    "selecetOneLanguage": "wybierz jeden język",
+    "no": "Nie",
+    "found": "znaleziony",
+    "repots": "Raporty"
+  },
+  "MESSAGES": {
+    "checkMail": "Proszę sprawdzić swoją skrzynkę pocztową.",
+    "emailIsRequired": "Email jest wymagany.",
+    "emailIsNotValid": "Adres email jest nieprawidłowy.",
+    "codeIsRequired": "Kod pacjenta jest wymagany.",
+    "codeIsNotValid": "Kod pacjenta jest nieprawidłowy.",
+    "nameIsRequired": "Imie jest wymagane.",
+    "phoneIsRequired": "Wymagany jest telefon komórkowy.",
+    "addressIsRequired": "Adres jest wymagany.",
+    "dobIsRequired": "Wymagana jest data urodzenia.",
+    "visitDateIsRequired": "Data wizyty jest wymagana.",
+    "PrescriptionImageIsRequired": "Obraz na receptę jest wymagany.",
+    "updateProfileDataSuccessfully": "Zaktualizuj dane profilu pomyślnie.",
+    "homeVisitIsReservedSuccessfully": "Wizyta domowa została pomyślnie zarezerwowana.",
+    "checkNetConnection": "Proszę sprawdzić swoje połączenie z internetem"
+  },
+  "TAB_LABELS": {
+    "dashboard": "Deska rozdzielcza",
+    "tests": "Testy",
+    "branches": "Gałęzie",
+    "homeVisit": "Wizyta domowa",
+    "profile": "Profil"
+  }
+}

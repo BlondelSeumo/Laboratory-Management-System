@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "Eroare",
+    "SOMETHING_WENT_WRONG": "Vă rugăm să încercați din nou mai târziu",
+    "SESSION_EXPIRED": "A apărut o eroare, vă rugăm să vă autentificați din nou"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "Loghează-te",
+    "patientCode": "Codul pacientului",
+    "forgetCode": "Uitați de cod",
+    "createAnAccount": "Creați un cont",
+    "newHere": "Nou aici ?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "Inscrie-te"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "E-mail",
+    "forgetCode": "Uitați de cod"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "Bord",
+    "welocme": "Bine ati venit",
+    "totalTests": "Total teste",
+    "completedTests": "Testele finalizate",
+    "pendingTests": "Testele în așteptare",
+    "selectYourLanguage": "Selectați limba dvs."
+  },
+  "TESTS_SCREEN": {
+    "tests": "Teste",
+    "totalTests": "Total teste",
+    "completedTests": "Testele finalizate",
+    "pendingTests": "Testele în așteptare",
+    "noTestsFound": "Nu s-au găsit teste",
+    "done": "Terminat",
+    "pending": "In asteptarea",
+    "viewReceipt": "Vizualizați chitanța",
+    "viewResults": "Vezi rezultate",
+    "createdAt": "Creat la",
+    "paid": "Plătit",
+    "due": "Datorită",
+    "status": "stare",
+    "results": "Rezultate",
+    "reports": "Rapoarte"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "Ramuri",
+    "callNow": "Sunați acum",
+    "showMap": "Arată harta",
+    "phoneNumberNotAvaliable": "Numărul de telefon nu este disponibil"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "Vizita acasa",
+    "reservationMessage": "Vă rugăm să vă înregistrați datele și personalul nostru de servicii pentru clienți vă va contacta pentru a vă confirma rezervarea",
+    "patientName": "Numele pacientului",
+    "phoneNumber": "Număr de telefon",
+    "address": "Abordare",
+    "corporation": "corporație",
+    "locale": "în",
+    "currentUser": "Utilizator curent",
+    "newUser": "Utilizator nou",
+    "male": "Masculin",
+    "female": "Femeie",
+    "uploadPrescription": "Încărcați rețeta",
+    "dateOfBirth": "Data de nastere",
+    "visitDate": "Data vizitei",
+    "reserveNow": "Rezervați acum",
+    "selectPrescriptionImage": "Selectați imaginea de prescripție",
+    "chooseFromLibraryButtonTitle": "Alege din biblioteca...",
+    "takePhotoButtonTitle": "Utilizați camera foto ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "Profil",
+    "patientName": "Numele pacientului",
+    "phoneNumber": "Număr de telefon",
+    "address": "Abordare",
+    "updateProfileInfo": "Actualizați informațiile profilului"
+  },
+  "GENERAL": {
+    "male": "Masculin",
+    "female": "Femeie",
+    "cancel": "Anulare",
+    "ok": "Bine",
+    "selecetOneLanguage": "selectați o limbă",
+    "no": "Nu",
+    "found": "găsite",
+    "repots": "Rapoarte"
+  },
+  "MESSAGES": {
+    "checkMail": "Vă rugăm să verificați e-mailul.",
+    "emailIsRequired": "E-mailul este obligatoriu.",
+    "emailIsNotValid": "E-mailul nu este valid.",
+    "codeIsRequired": "Codul pacientului este necesar.",
+    "codeIsNotValid": "Codul pacientului nu este valid.",
+    "nameIsRequired": "Numele este obligatoriu.",
+    "phoneIsRequired": "Este necesar un telefon mobil.",
+    "addressIsRequired": "Adresa este obligatorie.",
+    "dobIsRequired": "Este necesară data nașterii.",
+    "visitDateIsRequired": "Data vizitei este obligatorie.",
+    "PrescriptionImageIsRequired": "Este necesară o imagine cu prescripție.",
+    "updateProfileDataSuccessfully": "Actualizați datele profilului cu succes.",
+    "homeVisitIsReservedSuccessfully": "Vizita la domiciliu este rezervată cu succes.",
+    "checkNetConnection": "Vă rugăm să verificați conexiunea la internet"
+  },
+  "TAB_LABELS": {
+    "dashboard": "Bord",
+    "tests": "Teste",
+    "branches": "Ramuri",
+    "homeVisit": "Vizita acasa",
+    "profile": "Profil"
+  }
+}

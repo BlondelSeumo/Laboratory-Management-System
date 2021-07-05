@@ -1,0 +1,112 @@
+{
+  "Errors": {
+    "Error": "Ошибка",
+    "SOMETHING_WENT_WRONG": "Что-то пошло не так. Пожалуйста, повторите попытку позже",
+    "SESSION_EXPIRED": "Что-то пошло не так, пожалуйста, войдите снова"
+  },
+  "SIGNIN_SCREEN": {
+    "signin": "Войти",
+    "patientCode": "Код пациента",
+    "forgetCode": "Забыть код",
+    "createAnAccount": "Завести аккаунт",
+    "newHere": "Новенький тут ?"
+  },
+  "SIGNUP_SCREEN": {
+    "signUp": "Зарегистрироваться"
+  },
+  "FORGETCODE_SCREEN": {
+    "email": "Электронное письмо",
+    "forgetCode": "Забыть код"
+  },
+  "DASHBOARD_SCREEN": {
+    "dashboard": "Приборная панель",
+    "welocme": "Добро пожаловать",
+    "totalTests": "Всего тестов",
+    "completedTests": "Завершенные тесты",
+    "pendingTests": "Ожидающие тесты",
+    "selectYourLanguage": "Выберите ваш язык"
+  },
+  "TESTS_SCREEN": {
+    "tests": "Тесты",
+    "totalTests": "Всего тестов",
+    "completedTests": "Завершенные тесты",
+    "pendingTests": "Ожидающие тесты",
+    "noTestsFound": "Тестов не найдено",
+    "done": "Выполнено",
+    "pending": "В ожидании",
+    "viewReceipt": "Посмотреть квитанцию",
+    "viewResults": "Посмотреть Результаты",
+    "createdAt": "Создано на",
+    "paid": "Оплаченный",
+    "due": "Должный",
+    "status": "Положение дел",
+    "results": "Полученные результаты",
+    "reports": "Отчеты"
+  },
+  "BRANCHES_SCREEN": {
+    "branches": "ветви",
+    "callNow": "Позвони сейчас",
+    "showMap": "Показать карту",
+    "phoneNumberNotAvaliable": "Номер телефона недоступен"
+  },
+  "HOMEVISIT_SCREEN": {
+    "homeVisit": "Домашний визит",
+    "reservationMessage": "Пожалуйста, зарегистрируйте свои данные, и наши сотрудники службы поддержки свяжутся с вами для подтверждения бронирования.",
+    "patientName": "Имя пациента",
+    "phoneNumber": "Телефонный номер",
+    "address": "Адрес",
+    "corporation": "Корпорация",
+    "locale": "в",
+    "currentUser": "Текущий пользователь",
+    "newUser": "Новый пользователь",
+    "male": "Мужской",
+    "female": "женский",
+    "uploadPrescription": "Загрузить рецепт",
+    "dateOfBirth": "Дата рождения",
+    "visitDate": "Дата посещения",
+    "reserveNow": "Забронируйте сейчас",
+    "selectPrescriptionImage": "Выберите изображение по рецепту",
+    "chooseFromLibraryButtonTitle": "Выбрать из библиотеки...",
+    "takePhotoButtonTitle": "Снять с помощью камеры ..."
+  },
+  "PROFILE_SCREEN": {
+    "profile": "Профиль",
+    "patientName": "Имя пациента",
+    "phoneNumber": "Телефонный номер",
+    "address": "Адрес",
+    "updateProfileInfo": "Обновить информацию профиля"
+  },
+  "GENERAL": {
+    "male": "Мужской",
+    "female": "женский",
+    "cancel": "Отмена",
+    "ok": "Ok",
+    "selecetOneLanguage": "выбрать один язык",
+    "no": "Нет",
+    "found": "найденный",
+    "repots": "Отчеты"
+  },
+  "MESSAGES": {
+    "checkMail": "Пожалуйста, проверьте свою почту.",
+    "emailIsRequired": "Электронная почта обязательна.",
+    "emailIsNotValid": "Email не является допустимым.",
+    "codeIsRequired": "Требуется код пациента.",
+    "codeIsNotValid": "Код пациента недействителен.",
+    "nameIsRequired": "Имя обязательно.",
+    "phoneIsRequired": "Требуется мобильный телефон.",
+    "addressIsRequired": "Адрес обязателен.",
+    "dobIsRequired": "Дата рождения обязательна.",
+    "visitDateIsRequired": "Дата посещения обязательна.",
+    "PrescriptionImageIsRequired": "Требуется изображение рецепта.",
+    "updateProfileDataSuccessfully": "Обновите данные профиля успешно.",
+    "homeVisitIsReservedSuccessfully": "Домашний визит зарезервирован успешно.",
+    "checkNetConnection": "Пожалуйста, проверьте подключение к интернету"
+  },
+  "TAB_LABELS": {
+    "dashboard": "Приборная панель",
+    "tests": "Тесты",
+    "branches": "ветви",
+    "homeVisit": "Домашний визит",
+    "profile": "Профиль"
+  }
+}
